@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 546D-7508
+
+ Directory of C:\Users\Anjali\OneDrive\Desktop\GitProject
+
+05-03-2024  11:54    <DIR>          .
+05-03-2024  11:52    <DIR>          ..
+05-03-2024  11:54                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  133,187,411,968 bytes free
